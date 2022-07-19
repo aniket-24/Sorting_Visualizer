@@ -5,9 +5,8 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
-- [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-- [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 
 ![screenshot](https://user-images.githubusercontent.com/76562459/179834887-1c5f8ce7-3241-4906-b548-d17a306b91c5.png)
 
