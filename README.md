@@ -8,7 +8,7 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 
-![screenshot](https://user-images.githubusercontent.com/76562459/179834887-1c5f8ce7-3241-4906-b548-d17a306b91c5.png)
+[screen-capture.webm](https://user-images.githubusercontent.com/76562459/179948270-07f82e61-9214-4b02-90c6-3612a3d46c00.webm)
 
 ## How to use
 
